@@ -473,7 +473,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 100vh;
   align-items: center;
   justify-content: center;
-  background-image: url('../dist/img/bk.jpg');
+  background-image: url('bk.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
